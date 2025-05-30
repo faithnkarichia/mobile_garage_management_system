@@ -8,6 +8,9 @@ A command-line application that simulates a mobile garage service, where custome
 ## loom link
 * [link](https://www.loom.com/share/4d0c174368e24f93ba27a26845fdb6e4?sid=7b9b07ed-a48e-4596-911a-4ffe739164ce)
 
+## github link
+* https://github.com/faithnkarichia/mobile_garage_management_system#
+
 ## System Architecture
 ![system diagram](assets/mobile_garage_schema.svg)
 
